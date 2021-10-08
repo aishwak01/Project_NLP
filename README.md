@@ -7,4 +7,4 @@ Topic_Modelling_LDA(TF_IDF) - This script has the LDA models built using the TF-
 Topic_Modelling_LDAMallet - This script has the code to set up the environment variable to execute the LDAMallet models, script to find the optimal number of topics for a 
 particular dataset and its performance using the metrics (coherence) and on the unseen data.
 
-The details about the dataset, preprocessing, hyperparameter selection, models,  performance evaluation and the result analysis on the models are available in the report.
+The details about the dataset, preprocessing, hyperparameter selection, models,  performance evaluation and the result analysis on the models are available in the pdf report.
